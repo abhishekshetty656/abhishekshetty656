@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Cybersecurity Enthusiast & Ethical Hacker</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26Ff3XjV5n7VZb8i8/giphy.gif" alt="Hacking Animation" width="500"/>
+  <img src=https://tse2.mm.bing.net/th/id/OIP.KRbQOh0uvK1IFJG-tKa4lQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3/>
 </p>
 ---
 ### 🔐 About Me
@@ -36,11 +36,6 @@ Explore some of the most popular and effective hacking tools available on GitHub
 
 - **[CrimeFlare](https://github.com/zidansec/CloudPeler)**: A tool for bypassing websites protected by CloudFlare WAF, useful for penetration testing and analyzing websites with the same server.
 ---
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekshetty&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats"/>
-</p>
----
 ### 🎯 Recent Activity
 
 <p align="center">
@@ -64,9 +59,6 @@ Explore some of the most popular and effective hacking tools available on GitHub
 ### 🧠 Fun Fact
 Did you know? The first computer virus was created in 1983 by a 15-year-old student. It was called "Elk Cloner" and spread through floppy disks!
 ---
-### 🎥 Featured Video
-Check out this insightful video on ethical hacking:
-[![Ethical Hacking 101](https://img.youtube.com/vi/dkE4mVhwMB4/0.jpg)](https://www.youtube.com/watch?v=dkE4mVhwMB4)
 ---
 ### 🔗 Useful Links
 - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
