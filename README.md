@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Abhishek N Shetty👋
 
-<!--
-**abhishekshetty656/abhishekshetty656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
+🔐 Aspiring Cybersecurity Professional
+🐍 Python Developer
+🌐 Web Development Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about Cybersecurity, Ethical Hacking, Network Security, and Secure Software Development. I enjoy building real-world projects, learning new technologies, and gaining hands-on experience through internships and practical security research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- HTML, CSS, JavaScript
+- Cybersecurity Fundamentals
+- Network Security
+- Secure Coding Practices
+- Git & GitHub
+
+## Current Focus
+- Cybersecurity
+- Ethical Hacking
+- Bug Bounty Hunting
+- Python Development
+- Security Research
+
+📫 Always learning, building, and improving.
